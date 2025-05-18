@@ -17,7 +17,7 @@ A responsive web application empowering users to **resell unused software licens
 
 ## 🔧 Components Overview
 
-### 0. 🚀 Hero Section
+### 1. 🚀 Hero Section
 
 A high-impact entry section that introduces users to Credex's mission.
 
@@ -39,7 +39,7 @@ A high-impact entry section that introduces users to Credex's mission.
 
 ---
 
-### 1. 📬 ContactForm
+### 2. 📬 ContactForm
 
 A user-friendly form for inquiries, license listing, or partnerships.
 
@@ -60,7 +60,7 @@ A user-friendly form for inquiries, license listing, or partnerships.
 
 ---
 
-### 2. 🌍 WhyChooseUs
+### 3. 🌍 WhyChooseUs
 
 A section designed to reinforce trust and platform strengths.
 
@@ -79,7 +79,7 @@ A section designed to reinforce trust and platform strengths.
 
 ---
 
-### 3. 🗣️ Testimonials
+### 4. 🗣️ Testimonials
 
 Showcasing real feedback from satisfied users and clients.
 
@@ -98,7 +98,7 @@ Showcasing real feedback from satisfied users and clients.
 
 ---
 
-### 4. 💬 ChatWidget
+### 5. 💬 ChatWidget
 
 An interactive widget for real-time or async communication.
 
