@@ -92,7 +92,7 @@ const Navbar = () => {
 
         
         {mobileMenuOpen && (
-          <div className="md:hidden mt-4 py-4 bg-white dark:bg-gray-600 rounded-lg shadow-lg">
+          <div className="md:hidden mt-4 py-4 bg-white dark:bg-blue-950 rounded-lg shadow-lg">
             <div className="flex flex-col space-y-4 px-4">
               <a
                 href="#how-it-works"
